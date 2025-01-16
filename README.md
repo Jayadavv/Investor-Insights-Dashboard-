@@ -41,8 +41,10 @@ Compile the findings into a clear and visually appealing format to support decis
 
 
 ## Dashboard Overview
-![Dashboard Image](assets/Invest_Main.png)
-![Investors Insights](assets/Invest_insight.png)
+![Dashboard Image](Project%20image/Invest_Main.png)
+
+![Investors Insights](Project%20image/Invest_insight.png)
+
 
 
 ## Conclusion
