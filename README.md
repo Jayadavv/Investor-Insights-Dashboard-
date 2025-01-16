@@ -4,7 +4,7 @@ This project involves analyzing various investment plans preferred by investors 
 
 
 ## Project Objectives
-#### * Analyze Investment Preferences:
+ * **Analyze Investment Preferences**:
 Identify and understand the investment plans preferred by different types of investors based on their choices and behaviors.
 
 #### * Uncover Key Trends:
