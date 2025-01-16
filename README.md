@@ -40,6 +40,10 @@ Compile the findings into a clear and visually appealing format to support decis
 * *Power BI*: For creating the final interactive dashboard.
 
 
+## Dashboard Overview
+![Dashboard Image](Project image/Invest Main.png)
+
+
 
 
 
